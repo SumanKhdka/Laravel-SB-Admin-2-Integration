@@ -18,7 +18,7 @@
 
                     <div class="row">
                         <div class="col-lg-12">
-                            <h5 class="font-weight-bold">Laravel SB Admin 2</h5>
+                            <h5 class="font-weight-bold">Laravel SB Admin 2 Integration</h5>
                             <p>Integrating the SB Admin 2 template into a Laravel project involves several steps, including downloading the template, setting up your Laravel project, and then integrating the template files into your project.</p>
                         </div>
                     </div>
